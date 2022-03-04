@@ -6,7 +6,7 @@
 
 ### Day 1: March 3, 2022 
 
-**Today's Progress**: Did some exercises on Exercism and Codewars to just practice a bit
+**Today's Progress**: Did some exercises on Exercism and Codewars to just practice a bit and get back into the swing of things
 **Link to work:** 
-- [Codewars](https://www.codewars.com/users/nbbaier)
-- [Exercism](https://exercism.org/profiles/nbbaier)
+- [Codewars profile](https://www.codewars.com/users/nbbaier)
+- [Exercism profile](https://exercism.org/profiles/nbbaier)
