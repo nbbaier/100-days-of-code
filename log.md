@@ -2,7 +2,9 @@
 
 ### Overall goals
 - Establish a good understanding of Python fundamentals
-- Work one of the project ideas I have for productivity tools
+- Project 1: Work on my productivity tool ideas 
+- Project 2: Redo my personal website 
+
 
 ### Day 1: March 3, 2022 
 
