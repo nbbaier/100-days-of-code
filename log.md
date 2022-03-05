@@ -12,3 +12,10 @@
 **Link to work:** 
 - [Codewars profile](https://www.codewars.com/users/nbbaier)
 - [Exercism profile](https://exercism.org/profiles/nbbaier)
+
+### Day 2: March 4, 2022
+
+**Today's Progress**: Did some more Codewars exercises.
+**Thoughts:** For a couple of the exercises felt like I was onto what I needed to do pretty quickly, still took a bit to figure out how to implement that though.
+**Link to work:** 
+- [Codewars profile](https://www.codewars.com/users/nbbaier)
