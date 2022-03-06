@@ -19,3 +19,10 @@
 **Thoughts:** For a couple of the exercises felt like I was onto what I needed to do pretty quickly, still took a bit to figure out how to implement that though.
 **Link to work:** 
 - [Codewars profile](https://www.codewars.com/users/nbbaier)
+
+### Day 3: March 5, 2022
+
+**Today's Progress**: Did some more Codewars exercises.
+**Thoughts:** Had fun but want more meat on the bone, think I want to start digging into a project and solving things related to that.
+**Link to work:** 
+- [Codewars profile](https://www.codewars.com/users/nbbaier)
