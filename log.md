@@ -26,3 +26,14 @@
 **Thoughts:** Had fun but want more meat on the bone, think I want to start digging into a project and solving things related to that.
 **Link to work:** 
 - [Codewars profile](https://www.codewars.com/users/nbbaier)
+
+### Day 4: March 6, 2022
+
+**Today's Progress**: (1) Did a couple Codewars exercises; (2) Wrote a bit of code to take rows out of a sqlite databbase of notes I have and write them a markdown file as something I might want to integrate into a little personal tool; (3) 
+**Thoughts:** Had fun but want more meat on the bone, think I want to start digging into a project and solving things related to that.
+**Proof of work:** 
+- [Codewars profile](https://www.codewars.com/users/nbbaier)
+- [Exercism profile](https://exercism.org/profiles/nbbaier)
+- ![image](https://user-images.githubusercontent.com/12950157/156977211-27d6be3a-1433-453e-aa93-f33063ad06dc.png)
+
+
