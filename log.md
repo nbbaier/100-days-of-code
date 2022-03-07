@@ -27,8 +27,6 @@
 
 **Today's Progress**: Did some more Codewars exercises.
 
-**Thoughts:** Had fun but want more meat on the bone, think I want to start digging into a project and solving things related to that.
-
 **Link to work:** 
 - [Codewars profile](https://www.codewars.com/users/nbbaier)
 
