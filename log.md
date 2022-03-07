@@ -36,6 +36,6 @@
 - [Exercism profile](https://exercism.org/profiles/nbbaier)
 - Screenshot of tool addition
 
-<img src="https://user-images.githubusercontent.com/12950157/156977211-27d6be3a-1433-453e-aa93-f33063ad06dc.png" width=300 align=right>
+<img src="https://user-images.githubusercontent.com/12950157/156977211-27d6be3a-1433-453e-aa93-f33063ad06dc.png" width=300>
 
 
