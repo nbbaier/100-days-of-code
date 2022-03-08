@@ -43,5 +43,6 @@
 
 <img src="https://user-images.githubusercontent.com/12950157/156977211-27d6be3a-1433-453e-aa93-f33063ad06dc.png" width=600>
 
+### Day 5: March 7, 2022
 
-
+**Today's Progress**: More of a learn by watching day than a learn by writing code day,  though I did write some lines. Was mostly focused on thinking about how to plan out the project that I want to tackle over the next 95 days. So read about how people go about planning coding projects and then used those suggestions and techniques to start brainstorming about the first steps for my own project.
