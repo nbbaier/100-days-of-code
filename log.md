@@ -46,3 +46,8 @@
 ### Day 5: March 7, 2022
 
 **Today's Progress**: More of a learn by watching day than a learn by writing code day,  though I did write some lines. Was mostly focused on thinking about how to plan out the project that I want to tackle over the next 95 days. So read about how people go about planning coding projects and then used those suggestions and techniques to start brainstorming about the first steps for my own project.
+
+
+### Day 6: March 8, 2022
+
+**Today's Progress**: Decided that I wanted to have my little note app be a flask web app so set up the bare bones of a flask app to start learning about Flask in general and to have that done for when I actually want to add functionality.
