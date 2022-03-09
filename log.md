@@ -51,3 +51,7 @@
 ### Day 6: March 8, 2022
 
 **Today's Progress**: Decided that I wanted to have my little note app be a flask web app so set up the bare bones of a flask app to start learning about Flask in general and to have that done for when I actually want to add functionality.
+
+**Link to work:**
+- [Flask app](https://github.com/nbbaier/100-days-of-code/tree/master/flask_app)
+- 
