@@ -9,6 +9,13 @@ body, html {
   width: 400px;
 }
 
+ul {
+  list-style-type: "- ";
+}
+
+li{
+  margin: 10px 0;
+}
 
 table, td, th {
   border: 1px solid #aaa;

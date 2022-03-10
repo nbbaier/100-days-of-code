@@ -26,7 +26,7 @@ def index():
         except:
             return "There was an issue adding your task."
     else:
-        tasks = Todo.query.order_by(Todo.date_created).all()
+        tasks = Todo.query.order_by(Todo.date_created.desc()).all()
         return  render_template('index.html', tasks=tasks)
 
 @app.route('/delete/<int:id>')
