@@ -32,7 +32,7 @@
 
 ### Day 4: March 6, 2022
 
-**Today's Progress**: (1) Did a couple Codewars exercises; (2) Wrote a bit of code to take rows out of a sqlite databbase of notes I have and write them a markdown file as something I might want to integrate into a little personal tool; (3) 
+**Today's Progress**: (1) Did a couple Codewars exercises; (2) Wrote a bit of code to take rows out of a sqlite database of notes I have and write them a markdown file as something I might want to integrate into a little personal tool; (3) 
 
 **Thoughts:** Had fun but want more meat on the bone, think I want to start digging into a project and solving things related to that.
 
@@ -67,5 +67,5 @@
 **Today's Progress**: Worked on the Flask app frontend a bit more, mostly CSS changes. Also followed another Flask app turtial to try a different approach. Played around with MongoDB some just to learn about it. Did some more pandas work for the Kabyle verb project.
 
 **Link to work:**
-- [Flask app](https://github.com/nbbaier/100-days-of-code/flask_app)
-- Flask notes #enter this
+- [Flask app](https://github.com/nbbaier/100-days-of-code/tree/master/flask_app)
+- [Flask notes](https://github.com/nbbaier/100-days-of-code/tree/master/flask_notes)
