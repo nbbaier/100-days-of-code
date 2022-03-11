@@ -5,16 +5,36 @@ main {
 }
 
 header{
-  margin-bottom: 0.5em;
   font-family: 'Barlow', system-ui, sans-serif;
 }
+
+header,
+section,
+details {
+    margin-bottom: .75em;
+}
+
+body{
+  font-family: 'Barlow', system-ui, sans-serif;
+}
+
+a {
+  font-variant: small-caps;
+}
+
+summary h3 {
+  display: inline-block;
+  margin-bottom: .4em;
+}
+
+li div { text-align:right; }
+li div span { float:left; }
 
 /* body, html {
   margin: 0;
   font-family: sans-serif;
   background-color: lightblue;
 }
-
 
 
 .content {
