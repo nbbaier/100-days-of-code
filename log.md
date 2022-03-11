@@ -60,3 +60,12 @@
 
 **Link to work:**
 - [Flask app](https://github.com/nbbaier/100-days-of-code/flask_app)
+
+
+### Day 8: March 10, 2022
+
+**Today's Progress**: Worked on the Flask app frontend a bit more, mostly CSS changes. Also followed another Flask app turtial to try a different approach. Played around with MongoDB some just to learn about it. Did some more pandas work for the Kabyle verb project.
+
+**Link to work:**
+- [Flask app](https://github.com/nbbaier/100-days-of-code/flask_app)
+- Flask notes #enter this
