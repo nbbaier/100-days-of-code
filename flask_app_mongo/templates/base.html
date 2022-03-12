@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/@thesephist/paper.css/dist/paper.min.css" />
+    {% block head %}{% endblock %}
+</head>
+<main>
+<header class="accent paper">
+    <h1>jot</h1>
+</header>
+<body>
+    {% block body %}{% endblock %}
+</body>
+</main>
+</html>
