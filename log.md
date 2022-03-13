@@ -69,3 +69,13 @@
 **Link to work:**
 - [Flask app](https://github.com/nbbaier/100-days-of-code/tree/master/flask_app)
 - [Flask notes](https://github.com/nbbaier/100-days-of-code/tree/master/flask_notes)
+
+### Day 9: March 11, 2022
+**Today's Progress**: Wanted to see if I could implement the same app that I had already done with a MongoDB backend and figured out how to do that! Feeling good, though undirected.
+
+### Day 10: March 12, 2022
+
+**Today's Progress**: Kept working on the Flask notes app, which now has a name, Jot. Now has full CRUD functionality for the top level notes and the ability to insert subnotes ("jots") into notes. Still going with MongoDB backend. Also practiced some HTML/CSS along the way! Still feeling a bit undirected.
+
+**Link to work:**
+- [Flask notes w/ MongoDB](https://github.com/nbbaier/100-days-of-code/tree/master/flask_app_mongo)
