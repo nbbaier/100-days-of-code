@@ -61,7 +61,6 @@
 **Link to work:**
 - [Flask app](https://github.com/nbbaier/100-days-of-code/flask_app)
 
-
 ### Day 8: March 10, 2022
 
 **Today's Progress**: Worked on the Flask app frontend a bit more, mostly CSS changes. Also followed another Flask app turtial to try a different approach. Played around with MongoDB some just to learn about it. Did some more pandas work for the Kabyle verb project.
@@ -79,3 +78,7 @@
 
 **Link to work:**
 - [Flask notes w/ MongoDB](https://github.com/nbbaier/100-days-of-code/tree/master/flask_app_mongo)
+
+### Day 11: March 13, 2022
+
+**Today's Progress**: Decided to go back to basics and start [this course on Udemy](https://www.udemy.com/course/100-days-of-code/) for the remainder of the challenge. Got mostly caught up to day 11. Goal is now to get caught up fully and do the daily lesson each day at a miniumum for the remaining days.
