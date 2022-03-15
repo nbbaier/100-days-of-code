@@ -82,3 +82,7 @@
 ### Day 11: March 13, 2022
 
 **Today's Progress**: Decided to go back to basics and start [this course on Udemy](https://www.udemy.com/course/100-days-of-code/) for the remainder of the challenge. Got mostly caught up to day 11. Goal is now to get caught up fully and do the daily lesson each day at a miniumum for the remaining days.
+
+### Skip day: March 14, 2022
+
+**Today's Progress**: Had a bunch of work that needed catching up on, so decided to take this Monday as a skip day and to get back on the ling/coding horse tomorrow!
