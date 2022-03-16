@@ -86,3 +86,7 @@
 ### Skip day: March 14, 2022
 
 **Today's Progress**: Had a bunch of work that needed catching up on, so decided to take this Monday as a skip day and to get back on the ling/coding horse tomorrow!
+
+### Day 12: March 15, 2022
+
+**Today's Progress**: Got back to it today! Did more of the Udemy course, finishing up to day 12. Refreshed about variable scope in Python, wrote a little guess the number game with the course. Earlier in the day followed a tutorial for a script for monitoring internet speed and printing results to a csv.
