@@ -92,7 +92,7 @@
 **Today's Progress**: Got back to it today! Did more of the Udemy course, finishing up to day 12. Refreshed about variable scope in Python, wrote a little guess the number game with the course. Earlier in the day followed a tutorial for a script for monitoring internet speed and printing results to a csv.
 
 
-### Day 13: March 15, 2022
+### Day 13: March 16, 2022
 
 **Today's Progress**: 
 - Worked on shell skills a bit by getting MinioPro installed and working with pdflatex finally
