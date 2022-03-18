@@ -103,5 +103,6 @@
 ### Day 14: March 17, 2022
 
 **Today's Progress**: Did day 14 of the Udemy course, building a little game that plays in the console. 
+
 **Link to work:** 
 - [Day 14 app](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-14)
