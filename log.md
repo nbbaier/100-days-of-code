@@ -99,3 +99,7 @@
 - Did day 13 of the Udemy course
 - Did some brainstorming on coding projects I want to attempt
 - Got frustrated by not being able to import some python modules that are clearly installed
+
+### Day 14: March 17, 2022
+
+**Today's Progress**: Did day 14 of the Udemy course, building a little game that plays in the console. 
