@@ -42,7 +42,6 @@ def game():
       print(f"You have {turns} attempts remaining to guess the number.")
       continue
 
-
     
 game()
 
