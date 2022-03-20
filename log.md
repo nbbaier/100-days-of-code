@@ -108,13 +108,6 @@
 - [Day 14 app](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-14)
 
 ### Day 15: March 18, 2022
-<<<<<<< HEAD
-- did some of day 15 of the Udemy course
-- did some work on my dotfiles because I'm getting ready to do a clean install on my computer
-
-### Day 16: March 19, 2022
-- fisihed the day 15 part of the Udemy course 
-=======
 
 **Today's Progress**: 
 - did some of day 15 of the Udemy course
@@ -133,4 +126,4 @@
 **Link to work:** 
 - [Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
 - [Day 16](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-16)
->>>>>>> 06b9360 (logs)
+
