@@ -127,7 +127,7 @@
 - [Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
 - [Day 16](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-16)
 
-### Day 17: March 19, 2022
+### Day 17: March 20, 2022
 
 **Today's Progress**: 
 - did some work on my shell skills 
