@@ -127,3 +127,12 @@
 - [Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
 - [Day 16](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-16)
 
+### Day 17: March 19, 2022
+
+**Today's Progress**: 
+- did some work on my shell skills 
+- worked on the python script for my Kabyle data
+- started day 17 of the Udemy course (learned about creating one's own classes)
+
+**Link to work:** 
+- [Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
