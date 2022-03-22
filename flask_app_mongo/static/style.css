@@ -33,3 +33,7 @@ summary span { float:right;}
 
 li div { text-align:right; }
 li div span { float:left; }
+
+.paper {
+ border-radius: 7.5px !important; 
+}
