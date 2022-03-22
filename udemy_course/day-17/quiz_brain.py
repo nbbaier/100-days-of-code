@@ -1,5 +1,4 @@
-import random 
-import os
+import os,html
 term_size = os.get_terminal_size()
 
 
@@ -9,34 +8,21 @@ class QuizBrain:
         self.question_list = q_list
         self.score = 0
     
-    def questions_left(self):
-        return self.question_number < len(self.question_list)
+    def questions_left(self, length):
+        return self.question_number < length 
     
-    def choose_length(self): 
-        length = input("Short (s), medium (m) or long (l) quiz? ")
-        if length[0].lower() == "s":
-            return 6
-        elif length[0].lower() == "m":
-            return 9
-        elif length[0].lower() == "l":
-            return 12
-        else: 
-            print("Sorry, option not recognized!")
-            quit()
-            
+    # def randomize_questions(self, length):
+    #     current_list = random.sample(self.question_list, length)  
+    #     return current_list
     
-    def randomize_questions(self, length):
-        current_list = random.sample(self.question_list, length)  
-        return current_list
-    
-    def next_question(self, current_list):
-        current_question = current_list[self.question_number]
+    def next_question(self):
+        current_question = self.question_list[self.question_number]
         self.question_number += 1
-        user_answer = input(f"Q.{self.question_number}: {current_question.text} (True/False): ")
+        user_answer = input(html.unescape(f"Q.{self.question_number}: {current_question.text} (T/F): "))
         self.check_answer(user_answer, current_question.answer)
 
     def check_answer(self, user_answer, correct_answer):
-        if user_answer.lower() == correct_answer.lower():
+        if user_answer[0].lower() == correct_answer[0].lower():
             self.score += 1
             print("You got it right!")
         else:
