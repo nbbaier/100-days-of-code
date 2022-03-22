@@ -105,7 +105,7 @@
 **Today's Progress**: Did day 14 of the Udemy course, building a little game that plays in the console. 
 
 **Link to work:** 
-- [Day 14 app](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-14)
+- [Udemy Day 14](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-14)
 
 ### Day 15: March 18, 2022
 
@@ -114,7 +114,7 @@
 - did some work on my dotfiles because I'm getting ready to do a clean install on my computer
 
 **Link to work:** 
-- [Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
+- [Udemy Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
 
 
 ### Day 16: March 19, 2022
@@ -124,8 +124,8 @@
 - did day 16 of the Udemy course (implementing the above in OOP)
 
 **Link to work:** 
-- [Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
-- [Day 16](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-16)
+- [Udemy Day 15](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-15)
+- [Udemy Day 16](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-16)
 
 ### Day 17: March 20, 2022
 
@@ -135,4 +135,13 @@
 - started day 17 of the Udemy course (learned about creating one's own classes)
 
 **Link to work:** 
-- [Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
+- [Udemy Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
+
+### Day 18: March 21, 2022
+
+**Today's Progress**: 
+- finished day 17 of the Udemy course (creating a true/false quiz to practice writing classes)
+- added additional functionality to quiz (choosing quiz length, randomizing the question list each time)
+
+**Link to work:** 
+- [Udemy Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
