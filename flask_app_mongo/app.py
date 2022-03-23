@@ -2,14 +2,13 @@ from flask import Flask, render_template, request, url_for, redirect
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 import datetime
-from flask_mde import Mde
-
+#from flask_mde import Mde
 
 app = Flask(__name__)
 client = MongoClient('localhost', 27017)
 db = client.flask_db
 notes = db.notes
-mde = Mde(app)
+# mde = Mde(app)
     
 @app.route('/', methods=['POST','GET'])
 def index():
