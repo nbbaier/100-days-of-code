@@ -23,8 +23,11 @@
         <ul>
             {% for jot in note["jots"] %}            
 
-            <li>{{ jot['jot_content'] }}</li>
-            <!-- <li><div><span>{{ jot['jot_content'] }}</span> </li> -->
+            <!-- 
+            ! FIXME this is editable but it's not saving 
+            TODO need to make editing a jot save to the database 
+            -->
+            <li contenteditable="true">{{ jot['jot_content'] }}</li> 
 
             {% endfor %}
         </ul>      
