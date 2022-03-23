@@ -142,6 +142,17 @@
 **Today's Progress**: 
 - finished day 17 of the Udemy course (creating a true/false quiz to practice writing classes)
 - added additional functionality to quiz (choosing quiz length, randomizing the question list each time)
+- 
 
 **Link to work:** 
 - [Udemy Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
+
+### Day 19: March 22, 2022
+
+**Today's Progress**: 
+- did days 18, 19 of the Udemy course
+- focused on learning about the turtle module, event listening, higher order functions in python and controlling multiple instances of a class
+
+**Link to work:** 
+- [Udemy Day 18](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-18)
+- [Udemy Day 19](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-19)
