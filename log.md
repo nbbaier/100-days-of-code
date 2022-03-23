@@ -152,6 +152,7 @@
 **Today's Progress**: 
 - did days 18, 19 of the Udemy course
 - focused on learning about the turtle module, event listening, higher order functions in python and controlling multiple instances of a class
+- also played around inn my Flask app a bit but went down a rabbit hole that wasn't very useful
 
 **Link to work:** 
 - [Udemy Day 18](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-18)
