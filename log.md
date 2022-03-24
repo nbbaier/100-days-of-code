@@ -157,3 +157,13 @@
 **Link to work:** 
 - [Udemy Day 18](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-18)
 - [Udemy Day 19](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-19)
+
+### Day 20: March 23, 2022
+
+**Today's Progress**: 
+- played around with some basic golang stuff 
+- day 20 and 21 of the Udemy course (making a snake game)
+- learned about inheritence in python
+
+**Link to work:** 
+- [Udemy Days 20+21](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-20_21)
