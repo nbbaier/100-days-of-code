@@ -173,3 +173,11 @@ Ended up taking another skip day on Thursday.
 
 ### Day 21: March 25, 2022
 **Today's Progress**: Didn't do a lot, but refreshed on some R scripts that I had written a while ago to process some spreadsheets at work and then did some stuff with them for work as well. 
+
+### Day 20: March 26, 2022
+
+**Today's Progress**: 
+- did 22 of the Udemy course building a pong clone
+
+**Link to work:** 
+- [Udemy Days 22](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-22)

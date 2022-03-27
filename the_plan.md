@@ -4,7 +4,7 @@
 - [ ] Thursday -- March 24 -- d 21 / ud 21
 - [ ] Friday -- March 25 -- d 22 / ud 22
 - [ ] Saturday -- March 26 -- d 23 / ud 23+24
-- [ ] Sunday -- March 27 -- d 24 / ud 25+26
+- [ ] Sunday -- March 27 -- d 24 / ud 2+26
 
 - [ ] Monday -- March 28 -- d 25 / ud 27
 - [ ] Tuesday -- March 29 -- d 26 / ud 28
