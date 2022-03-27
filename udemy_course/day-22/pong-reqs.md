@@ -1,0 +1,11 @@
+- [x] create a screen
+  - 600x800, excit on click
+  - 
+- create move a paddle
+- create anothr paddle
+- create the ball and make it movement
+- detect collision with wall and bounce
+- detect collision with paddle
+- detect misses
+- keep score
+- 
