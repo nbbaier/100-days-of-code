@@ -142,7 +142,6 @@
 **Today's Progress**: 
 - finished day 17 of the Udemy course (creating a true/false quiz to practice writing classes)
 - added additional functionality to quiz (choosing quiz length, randomizing the question list each time)
-- 
 
 **Link to work:** 
 - [Udemy Day 17](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-17)
@@ -172,7 +171,7 @@
 Ended up taking another skip day on Thursday.
 
 ### Day 21: March 25, 2022
-**Today's Progress**: Didn't do a lot, but refreshed on some R scripts that I had written a while ago to process some spreadsheets at work and then did some stuff with them for work as well. 
+**Today's Progress**: Didn't do a lot, but refreshed my memory on some R scripts that I had written a while ago to process some spreadsheets at work and then did some stuff with them for work as well. 
 
 ### Day 22: March 26, 2022
 
@@ -181,3 +180,19 @@ Ended up taking another skip day on Thursday.
 
 **Link to work:** 
 - [Udemy Days 22](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-22)
+
+### Skip days: March 27-30, 2022
+
+### Day 23: March 31, 2022
+**Today's Progress**: Did some stuff at work with the R scripts from before, counting it because my brain was involved in coding something or thinking through code in some way.
+
+## Skip days: April 1-3, 2022
+
+### Day 24: March 26, 2022
+
+**Today's Progress**: 
+- did day 23 of the Udemy course, building a frogger-ish game
+- had a lot of fun getting back on plan!
+
+**Link to work:** 
+- [Udemy Days 23](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-23)
