@@ -15,8 +15,8 @@
 - [x] Sunday -- April 03 --skip
 
 - [x] Monday -- April 04 -- d 24 / ud 23
-- [ ] Tuesday -- April 05 -- d 25 / ud 24+25
-- [ ] Wednesday -- April 06 -- d 26 / ud 26
+- [x] Tuesday -- April 05 -- d 25 / ud 24
+- [ ] Wednesday -- April 06 -- d 26 / ud 25+26
 - [ ] Thursday -- April 07 -- d 27 / ud 27
 - [ ] Friday -- April 08 -- d 28 / ud 28
 - [ ] Saturday -- April 09 -- d 29 / ud 29+30 
