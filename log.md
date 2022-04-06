@@ -161,7 +161,7 @@
 
 **Today's Progress**: 
 - played around with some basic golang stuff 
-- day 20 and 21 of the Udemy course (making a snake game)
+- did day 20 and 21 of the Udemy course (making a snake game)
 - learned about inheritence in python
 
 **Link to work:** 
@@ -188,7 +188,7 @@ Ended up taking another skip day on Thursday.
 
 ## Skip days: April 1-3, 2022
 
-### Day 24: March 26, 2022
+### Day 24: April 4, 2022
 
 **Today's Progress**: 
 - did day 23 of the Udemy course, building a frogger-ish game
@@ -196,3 +196,5 @@ Ended up taking another skip day on Thursday.
 
 **Link to work:** 
 - [Udemy Days 23](https://github.com/nbbaier/100-days-of-code/tree/master/udemy_course/day-23)
+
+### Day 25: April 5, 2022
